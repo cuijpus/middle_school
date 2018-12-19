@@ -64,7 +64,8 @@
     <tr>
         <th>三国（魏蜀吴)</th> <!朝代>
         <th></th> <!书籍>
-        <th></th> <!古诗歌>
+        <th> <a href = "https://so.gushiwen.org/shiwenv_630c04c81858.aspx">初中 4 观沧海 《乐府诗集》《曹操集》</a> <br>
+        </th> <!古诗歌>
         <th></th> <!助记视频、图片>
         <th></th> <!会背了?>
         <th></th>  <!能默写了?>            
