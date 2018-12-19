@@ -114,7 +114,7 @@
         <th>
             《唐诗》<br>
         </th> <!书籍>
-        <th>
+        <th align="left">
             <a href = "https://so.gushiwen.org/shiwenv_5775c79bcd34.aspx">初中 7 送杜少府之任蜀州 王勃</a> <br>
             <a href = "https://so.gushiwen.org/shiwenv_4083a01ac833.aspx">初中 8 登幽州台歌 陈子昂</a> <br>
             <a href = "https://so.gushiwen.org/shiwenv_720b46d38537.aspx">初中 9 次北固山下 王湾</a> <br>
