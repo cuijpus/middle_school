@@ -30,8 +30,8 @@
         <th>西周</th> <!朝代>
         <th>《诗经》<br>《周易》</th> <!书籍>
         <th>
-            初中： 1_关雎_《诗经》<br>
-            初中： 2_蒹葭_《诗经》<br>
+            <a href = "https://so.gushiwen.org/shiwenv_4c5705b99143.aspx">初中 1 关雎 《诗经》</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_15cd220102d6.aspx">初中 2 蒹葭 《诗经》</a> <br>
         </th> <!古诗歌>
         <th></th> <!助记视频、图片>
         <th></th> <!会背了?>
