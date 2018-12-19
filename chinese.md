@@ -103,9 +103,11 @@
     </tr>  
     <tr>
         <th>北宋</th> <!朝代>
-        <th></th> <!书籍>
-        <th></th> <!古诗歌>
-        <th></th> <!助记视频、图片>
+        <th>《乐府诗集》</th> <!书籍>
+        <th> <a href = "https://so.gushiwen.org/shiwenv_5f6efd08156d.aspx"> 初中 3 十五从军征 《乐府诗集》</a> <br>
+        </th> <!古诗歌>
+        <th>
+        </th> <!助记视频、图片>
         <th></th> <!会背了?>
         <th></th>  <!能默写了?>            
     </tr>     
