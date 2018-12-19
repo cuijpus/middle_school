@@ -86,6 +86,7 @@
         <th></th> <!书籍>
         <th align="left">
             <a href = "https://so.gushiwen.org/shiwenv_630c04c81858.aspx">初中 4 观沧海 《乐府诗集》《曹操集》</a> <br>
+            <a href = "http://www.ruiwen.com/guji/1320142.html">初中 48 出师表 诸葛亮</a> <br>
         </th> <!古诗歌>
         <th></th> <!助记视频、图片>
         <th></th> <!会背了?>
@@ -96,6 +97,7 @@
         <th></th> <!书籍>
         <th align="left">
             <a href = "https://so.gushiwen.org/shiwenv_5b90a9bb5230.aspx">初中 5 饮酒(其五) 陶渊明</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_73add8822103.aspx">初中 49 桃花源记 陶渊明</a> <br>
         </th> <!古诗歌>
         <th></th> <!助记视频、图片>
         <th></th> <!会背了?>
@@ -104,11 +106,14 @@
     <tr>
         <th>南北朝</th> <!朝代>
         <th>
+            《南北朝名歌》<br>
             《千字文》<br>
         </th> <!书籍>
         <th align="left">
             <a href = "https://so.gushiwen.org/shiwenv_2d6b0c83a500.aspx">初中 6 木兰诗 《北朝民歌》</a> <br>
             <a href = "https://so.gushiwen.org/shiwenv_804144e6b0dd.aspx">初中 26 相见欢·无言独上西楼 李煜</a> <br>
+            <a href = "https://www.gushiwen.org/GuShiWen_92eec73cfe.aspx">初中 50 答谢中书书 南朝 陶弘景</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_e3a32488d62a.aspx">初中 51 三峡 北朝 郦道元</a> <br>
         </th> <!古诗歌>
         <th></th> <!助记视频、图片>
         <th></th> <!会背了?>
@@ -147,6 +152,9 @@
             <a href = "https://so.gushiwen.org/shiwenv_8e8011f614fb.aspx">初中 23 泊秦淮 杜牧</a> <br>
             <a href = "https://so.gushiwen.org/shiwenv_e46c43d13b97.aspx">初中 24 夜雨寄北 李商隐</a> <br>
             <a href = "https://so.gushiwen.org/shiwenv_1a4c484f9364.aspx">初中 25 无题·相见时难别亦难 李商隐</a> <br>
+            <a href = "https://www.gushiwen.org/GuShiWen_c43da55262.aspx">初中 52 杂说·马说 韩愈</a> <br>
+            <a href = "https://www.gushiwen.org/GuShiWen_8668c00359.aspx">初中 53 陋室铭 刘禹锡</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_1ab58966cf83.aspx">初中 54 小石潭记 柳宗元</a> <br>
         </th> <!古诗歌>
         <th></th> <!助记视频、图片>
         <th></th> <!会背了?>
