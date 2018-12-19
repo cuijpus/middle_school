@@ -1,7 +1,7 @@
 
 # 初中61首古诗+小学75首古诗(136首）
 
-<table>
+<table align="left">
     <tr>
         <th>朝代</th>
         <th>书籍</th>
