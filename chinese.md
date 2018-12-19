@@ -151,7 +151,11 @@
         </th> <!书籍>
         <th align="left">
             <a href = "https://so.gushiwen.org/shiwenv_5f6efd08156d.aspx"> 初中 3 十五从军征 《乐府诗集》</a> <br>
-            <a href = "https://so.gushiwen.org/shiwenv_5f6efd08156d.aspx"> 初中 27 渔家傲 秋思 李清照 </a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_76a124fc2fb8.aspx"> 初中 27 渔家傲 秋思 范仲淹 </a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_eda29e11ff49.aspx"> 初中 28 浣溪沙 晏殊 </a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_4a272f472fee.aspx"> 初中 29 登飞来峰 王安石 </a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_85b8792a66ac.aspx"> 初中 30 江城子·密州出猎 苏轼 </a> <br>
+            <a href = "https://www.gushiwen.org/GuShiWen_4f0088c6b2.aspx"> 初中 31 水调歌头 苏轼 </a> <br>
         </th> <!古诗歌>
         <th>
         </th> <!助记视频、图片>
