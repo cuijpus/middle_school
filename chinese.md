@@ -19,7 +19,7 @@
     </tr> 
     <tr>
         <th>西周</th> <!朝代>
-        <th><<诗经>><br>《周易》</th> <!书籍>
+        <th>《诗经》<br>《周易》</th> <!书籍>
         <th></th> <!古诗歌>
     </tr>   
     <tr>
@@ -98,4 +98,7 @@
         <th></th> <!古诗歌>
     </tr>      
 </table>
+
+[初中生必背古诗文61首](https://wenku.baidu.com/view/f6bf1862af1ffc4ffe47ac95.html?sxts=1545202408201)<br>
+[初中生必背古诗文61首默写](https://wenku.baidu.com/view/eb078da3d0f34693daef5ef7ba0d4a7302766ca3.html?rec_flag=default&sxts=1545202447020)<br>
 
