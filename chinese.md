@@ -127,6 +127,15 @@
             <a href = "https://so.gushiwen.org/shiwenv_b0d3f72465ef.aspx">初中 13 黄鹤楼 崔颢</a> <br>
             <a href = "https://so.gushiwen.org/shiwenv_efec283b31e0.aspx">初中 14 望岳 杜甫</a> <br>
             <a href = "https://so.gushiwen.org/shiwenv_89d3a63c6d7f.aspx">初中 15 春望 杜甫</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_8e9ecc95d6a4.aspx">初中 16 茅屋为秋风所破歌 杜甫</a> <br>
+            <a href = "https://www.gushiwen.org/mingju_874.aspx/GuShiWen_8e91b4822c.aspx">初中 17 白雪歌送武判官归京 岑参</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_f6c40e3d4893.aspx">初中 18 酬乐天扬州初逢席上见赠 刘禹锡</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_2716dfb4d439.aspx">初中 19 卖炭翁 白居易</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_f6c40e3d4893.aspx">初中 18 酬乐天扬州初逢席上见赠 刘禹锡</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_f6c40e3d4893.aspx">初中 18 酬乐天扬州初逢席上见赠 刘禹锡</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_f6c40e3d4893.aspx">初中 18 酬乐天扬州初逢席上见赠 刘禹锡</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_f6c40e3d4893.aspx">初中 18 酬乐天扬州初逢席上见赠 刘禹锡</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_f6c40e3d4893.aspx">初中 18 酬乐天扬州初逢席上见赠 刘禹锡</a> <br>
         </th> <!古诗歌>
         <th></th> <!助记视频、图片>
         <th></th> <!会背了?>
