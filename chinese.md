@@ -177,6 +177,7 @@
             <a href = "https://so.gushiwen.org/shiwenv_f3d6556dbcad.aspx"> 初中 55 岳阳楼 范仲淹 </a> <br>
             <a href = "https://so.gushiwen.org/shiwenv_5cbf5b7be38f.aspx"> 初中 56 醉翁亭记 欧阳修 </a> <br>
             <a href = "https://so.gushiwen.org/shiwenv_6d2dcbe80f96.aspx"> 初中 57 爱莲说 周敦颐 </a> <br>
+            <a href = "https://www.gushiwen.org/GuShiWen_de9531d68b.aspx"> 初中 58 记承天寺夜游 苏轼 </a> <br>
         </th> <!古诗歌>
         <th>
         </th> <!助记视频、图片>
@@ -217,7 +218,9 @@
             《西游记》<br>《水浒传》<br>
             《三国演义》<br>   
         </th> <!书籍>
-        <th></th> <!古诗歌>
+        <th align="left">
+            <a href = "https://so.gushiwen.org/shiwenv_6fb0a58e157c.aspx"> 初中 59 送东阳马生序 宋濂 </a> <br>
+        </th> <!古诗歌>
         <th></th> <!助记视频、图片>
         <th></th> <!会背了?>
         <th></th>  <!能默写了?>            
@@ -232,6 +235,8 @@
         <th  align="left">
             <a href = "https://so.gushiwen.org/shiwenv_d78d2dc95f06.aspx"> 初中 39 己亥杂诗·其五 龚自珍 </a> <br>、
             <a href = "https://so.gushiwen.org/shiwenv_2a4e8dfccc72.aspx"> 初中 40 满江红·小住京华 龚自珍 </a> <br>
+            <a href = "https://www.gushiwen.org/GuShiWen_eb905c1d86.aspx"> 初中 60 湖心亭看雪 张岱 </a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_fa4352b54a3a.aspx"> 初中 61 河中石兽 纪昀 </a> <br>
         </th> <!古诗歌>
         <th></th> <!助记视频、图片>
         <th></th> <!会背了?>
