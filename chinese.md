@@ -7,6 +7,16 @@
         <th>书籍</th>
         <th>古诗歌</th>
     </tr>
+    <tr>
+        <th></th> <!朝代>
+        <th></th> <!书籍>
+        <th></th> <!古诗歌>
+    </tr>
+    <tr>
+        <th></th> <!朝代>
+        <th></th> <!书籍>
+        <th></th> <!古诗歌>
+    </tr>    
 </table>
 
 <table>
