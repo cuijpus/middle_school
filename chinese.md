@@ -233,7 +233,7 @@
             《红楼梦》<br>
         </th> <!书籍>
         <th  align="left">
-            <a href = "https://so.gushiwen.org/shiwenv_d78d2dc95f06.aspx"> 初中 39 己亥杂诗·其五 龚自珍 </a> <br>、
+            <a href = "https://so.gushiwen.org/shiwenv_d78d2dc95f06.aspx"> 初中 39 己亥杂诗·其五 龚自珍 </a> <br>
             <a href = "https://so.gushiwen.org/shiwenv_2a4e8dfccc72.aspx"> 初中 40 满江红·小住京华 龚自珍 </a> <br>
             <a href = "https://www.gushiwen.org/GuShiWen_eb905c1d86.aspx"> 初中 60 湖心亭看雪 张岱 </a> <br>
             <a href = "https://so.gushiwen.org/shiwenv_fa4352b54a3a.aspx"> 初中 61 河中石兽 纪昀 </a> <br>
