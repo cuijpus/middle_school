@@ -1,7 +1,7 @@
 
 # 初中61首古诗+小学75首古诗(136首）
 
-<table align="left">
+<table>
     <tr>
         <th>朝代</th>
         <th>书籍</th>
@@ -29,7 +29,7 @@
     <tr>
         <th>西周</th> <!朝代>
         <th>《诗经》<br>《周易》</th> <!书籍>
-        <th>
+        <th align="left">
             <a href = "https://so.gushiwen.org/shiwenv_4c5705b99143.aspx">初中 1 关雎 《诗经》</a> <br>
             <a href = "https://so.gushiwen.org/shiwenv_15cd220102d6.aspx">初中 2 蒹葭 《诗经》</a> <br>
         </th> <!古诗歌>
@@ -39,7 +39,7 @@
     </tr>   
     <tr>
         <th>东周<br>（春秋+战国）</th> <!朝代>
-        <th>
+        <th >
             四书：<br>
             《论语》<br>《孟子》<br>
             《大学》<br>《中庸》<br><br>
@@ -75,7 +75,8 @@
     <tr>
         <th>三国（魏蜀吴)</th> <!朝代>
         <th></th> <!书籍>
-        <th> <a href = "https://so.gushiwen.org/shiwenv_630c04c81858.aspx">初中 4 观沧海 《乐府诗集》《曹操集》</a> <br>
+        <th align="left">
+            <a href = "https://so.gushiwen.org/shiwenv_630c04c81858.aspx">初中 4 观沧海 《乐府诗集》《曹操集》</a> <br>
         </th> <!古诗歌>
         <th></th> <!助记视频、图片>
         <th></th> <!会背了?>
@@ -84,7 +85,8 @@
     <tr>
         <th>晋朝</th> <!朝代>
         <th></th> <!书籍>
-        <th> <a href = "https://so.gushiwen.org/shiwenv_5b90a9bb5230.aspx">初中 5 饮酒(其五) 陶渊明</a> <br>
+        <th align="left">
+            <a href = "https://so.gushiwen.org/shiwenv_5b90a9bb5230.aspx">初中 5 饮酒(其五) 陶渊明</a> <br>
         </th> <!古诗歌>
         <th></th> <!助记视频、图片>
         <th></th> <!会背了?>
@@ -95,7 +97,8 @@
         <th>
             《千字文》<br>
         </th> <!书籍>
-        <th> <a href = "https://so.gushiwen.org/shiwenv_2d6b0c83a500.aspx">初中 6 木兰诗 《北朝民歌》</a> <br>
+        <th align="left">
+            <a href = "https://so.gushiwen.org/shiwenv_2d6b0c83a500.aspx">初中 6 木兰诗 《北朝民歌》</a> <br>
         </th> <!古诗歌>
         <th></th> <!助记视频、图片>
         <th></th> <!会背了?>
@@ -131,7 +134,8 @@
             《乐府诗集》<br>
             《百家姓》<br>
         </th> <!书籍>
-        <th> <a href = "https://so.gushiwen.org/shiwenv_5f6efd08156d.aspx"> 初中 3 十五从军征 《乐府诗集》</a> <br>
+        <th align="left">
+            <a href = "https://so.gushiwen.org/shiwenv_5f6efd08156d.aspx"> 初中 3 十五从军征 《乐府诗集》</a> <br>
         </th> <!古诗歌>
         <th>
         </th> <!助记视频、图片>
