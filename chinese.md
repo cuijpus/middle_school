@@ -156,6 +156,7 @@
             <a href = "https://so.gushiwen.org/shiwenv_4a272f472fee.aspx"> 初中 29 登飞来峰 王安石 </a> <br>
             <a href = "https://so.gushiwen.org/shiwenv_85b8792a66ac.aspx"> 初中 30 江城子·密州出猎 苏轼 </a> <br>
             <a href = "https://www.gushiwen.org/GuShiWen_4f0088c6b2.aspx"> 初中 31 水调歌头 苏轼 </a> <br>
+            <a href = "https://www.gushiwen.org/GuShiWen_1912df3ee4.aspx"> 初中 32 渔家傲·天接云涛连晓雾 李清照 </a> <br>
         </th> <!古诗歌>
         <th>
         </th> <!助记视频、图片>
@@ -167,7 +168,12 @@
         <th>
             《三字经》<br>
         </th> <!书籍>
-        <th></th> <!古诗歌>
+        <th>
+            <a href = "https://so.gushiwen.org/shiwenv_09294abb5f67.aspx"> 初中 33 游山西村 陆游 </a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_3cfc9856b57a.aspx"> 初中 34 南乡子·登京口北固亭有怀 辛弃疾 </a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_9822debcdc64.aspx"> 初中 35 破阵子·为陈同甫赋壮词以寄之 辛弃疾 </a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_5796865dca4a.aspx"> 初中 36 过零丁洋 文天祥 </a> <br>
+        </th> <!古诗歌>
         <th></th> <!助记视频、图片>
         <th></th> <!会背了?>
         <th></th>  <!能默写了?>            
