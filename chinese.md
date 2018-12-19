@@ -174,6 +174,9 @@
             <a href = "https://so.gushiwen.org/shiwenv_85b8792a66ac.aspx"> 初中 30 江城子·密州出猎 苏轼 </a> <br>
             <a href = "https://www.gushiwen.org/GuShiWen_4f0088c6b2.aspx"> 初中 31 水调歌头 苏轼 </a> <br>
             <a href = "https://www.gushiwen.org/GuShiWen_1912df3ee4.aspx"> 初中 32 渔家傲·天接云涛连晓雾 李清照 </a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_f3d6556dbcad.aspx"> 初中 55 岳阳楼 范仲淹 </a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_5cbf5b7be38f.aspx"> 初中 56 醉翁亭记 欧阳修 </a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_6d2dcbe80f96.aspx"> 初中 57 爱莲说 周敦颐 </a> <br>
         </th> <!古诗歌>
         <th>
         </th> <!助记视频、图片>
