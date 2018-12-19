@@ -44,9 +44,18 @@
             《论语》<br>《孟子》<br>
             《大学》<br>《中庸》<br><br>
             《孝经》<br>《老子》<br>
-            《庄子》<br>《孙子兵法》<br><br>            
+            《庄子》<br>《孙子兵法》<br><br>  
+            《左传》<br>
         </th> <!书籍>
-        <th></th> <!古诗歌>
+        <th  align="left">
+            <a href = "https://so.gushiwen.org/shiwenv_d6640103678f.aspx">初中 41 论语十二章 </a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_0c4d9d86a850.aspx">初中 42 曹刿论战 《左传》 </a> <br>
+            <a href = "https://zhidao.baidu.com/question/1835983881963530780.html">初中 43 孟子三则 《孟子》 </a> <br>
+            <a href = "https://baike.baidu.com/item/%E5%BA%84%E5%AD%90%E4%B8%80%E5%88%99/7335476?fr=aladdin">初中 44 庄子一则 《庄子》 </a> <br>
+            <a href = "https://zhidao.baidu.com/question/264437243471407205.html">初中 45 庄子一则 《庄子》 </a> <br>
+            <a href = "http://www.ruiwen.com/guji/1348194.html">初中 46 列子一则 《列子》 </a> <br>
+            <a href = "https://www.gushiwen.org/GuShiWen_d15c869342.aspx">初中 47 邹忌讽齐王纳谏 《战国策》 </a> <br>
+        </th> <!古诗歌>
         <th></th> <!助记视频、图片>
         <th></th> <!会背了?>
         <th></th>  <!能默写了?>            
@@ -168,7 +177,7 @@
         <th>
             《三字经》<br>
         </th> <!书籍>
-        <th>
+        <th align="left">
             <a href = "https://so.gushiwen.org/shiwenv_09294abb5f67.aspx"> 初中 33 游山西村 陆游 </a> <br>
             <a href = "https://so.gushiwen.org/shiwenv_3cfc9856b57a.aspx"> 初中 34 南乡子·登京口北固亭有怀 辛弃疾 </a> <br>
             <a href = "https://so.gushiwen.org/shiwenv_9822debcdc64.aspx"> 初中 35 破阵子·为陈同甫赋壮词以寄之 辛弃疾 </a> <br>
@@ -181,7 +190,10 @@
     <tr>
         <th>元朝</th> <!朝代>
         <th></th> <!书籍>
-        <th></th> <!古诗歌>
+        <th align="left">
+            <a href = "https://so.gushiwen.org/shiwenv_9dcf133d25cc.aspx"> 初中 37 天净沙·秋思 马致远 </a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_1bd53945715b.aspx"> 初中 38 山坡羊·潼关怀古 张养浩 </a> <br>
+        </th> <!古诗歌>
         <th></th> <!助记视频、图片>
         <th></th> <!会背了?>
         <th></th>  <!能默写了?>            
@@ -206,7 +218,10 @@
             4大名著之一：<br>
             《红楼梦》<br>
         </th> <!书籍>
-        <th></th> <!古诗歌>
+        <th  align="left">
+            <a href = "https://so.gushiwen.org/shiwenv_d78d2dc95f06.aspx"> 初中 39 己亥杂诗·其五 龚自珍 </a> <br>、
+            <a href = "https://so.gushiwen.org/shiwenv_2a4e8dfccc72.aspx"> 初中 40 满江红·小住京华 龚自珍 </a> <br>
+        </th> <!古诗歌>
         <th></th> <!助记视频、图片>
         <th></th> <!会背了?>
         <th></th>  <!能默写了?>            
