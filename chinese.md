@@ -119,6 +119,7 @@
             <a href = "https://so.gushiwen.org/shiwenv_4083a01ac833.aspx">初中 8 登幽州台歌 陈子昂</a> <br>
             <a href = "https://so.gushiwen.org/shiwenv_720b46d38537.aspx">初中 9 次北固山下 王湾</a> <br>
             <a href = "https://so.gushiwen.org/shiwenv_eae647c5c110.aspx">初中 10 使至塞上 王维</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_62280919c9c5.aspx">初中 11 闻王昌龄左迁龙标遥有此寄 李白</a> <br>
         </th> <!古诗歌>
         <th></th> <!助记视频、图片>
         <th></th> <!会背了?>
