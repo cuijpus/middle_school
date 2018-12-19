@@ -99,6 +99,7 @@
         </th> <!书籍>
         <th align="left">
             <a href = "https://so.gushiwen.org/shiwenv_2d6b0c83a500.aspx">初中 6 木兰诗 《北朝民歌》</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_804144e6b0dd.aspx">初中 26 相见欢·无言独上西楼 李煜</a> <br>
         </th> <!古诗歌>
         <th></th> <!助记视频、图片>
         <th></th> <!会背了?>
@@ -136,6 +137,7 @@
             <a href = "https://so.gushiwen.org/shiwenv_3fb397218a1e.aspx">初中 22 赤壁 杜牧</a> <br>
             <a href = "https://so.gushiwen.org/shiwenv_8e8011f614fb.aspx">初中 23 泊秦淮 杜牧</a> <br>
             <a href = "https://so.gushiwen.org/shiwenv_e46c43d13b97.aspx">初中 24 夜雨寄北 李商隐</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_1a4c484f9364.aspx">初中 25 无题·相见时难别亦难 李商隐</a> <br>
         </th> <!古诗歌>
         <th></th> <!助记视频、图片>
         <th></th> <!会背了?>
@@ -149,6 +151,7 @@
         </th> <!书籍>
         <th align="left">
             <a href = "https://so.gushiwen.org/shiwenv_5f6efd08156d.aspx"> 初中 3 十五从军征 《乐府诗集》</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_5f6efd08156d.aspx"> 初中 27 渔家傲 秋思 李清照 </a> <br>
         </th> <!古诗歌>
         <th>
         </th> <!助记视频、图片>
