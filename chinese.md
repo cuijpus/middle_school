@@ -99,7 +99,9 @@
     <tr>
         <th>唐朝</th> <!朝代>
         <th></th> <!书籍>
-        <th></th> <!古诗歌>
+        <th>
+            <a href = "https://so.gushiwen.org/shiwenv_5775c79bcd34.aspx">初中 7 送杜少府之任蜀州 王勃</a> <br>
+        </th> <!古诗歌>
         <th></th> <!助记视频、图片>
         <th></th> <!会背了?>
         <th></th>  <!能默写了?>            
