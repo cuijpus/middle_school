@@ -131,11 +131,11 @@
             <a href = "https://www.gushiwen.org/mingju_874.aspx/GuShiWen_8e91b4822c.aspx">初中 17 白雪歌送武判官归京 岑参</a> <br>
             <a href = "https://so.gushiwen.org/shiwenv_f6c40e3d4893.aspx">初中 18 酬乐天扬州初逢席上见赠 刘禹锡</a> <br>
             <a href = "https://so.gushiwen.org/shiwenv_2716dfb4d439.aspx">初中 19 卖炭翁 白居易</a> <br>
-            <a href = "https://so.gushiwen.org/shiwenv_f6c40e3d4893.aspx">初中 18 酬乐天扬州初逢席上见赠 刘禹锡</a> <br>
-            <a href = "https://so.gushiwen.org/shiwenv_f6c40e3d4893.aspx">初中 18 酬乐天扬州初逢席上见赠 刘禹锡</a> <br>
-            <a href = "https://so.gushiwen.org/shiwenv_f6c40e3d4893.aspx">初中 18 酬乐天扬州初逢席上见赠 刘禹锡</a> <br>
-            <a href = "https://so.gushiwen.org/shiwenv_f6c40e3d4893.aspx">初中 18 酬乐天扬州初逢席上见赠 刘禹锡</a> <br>
-            <a href = "https://so.gushiwen.org/shiwenv_f6c40e3d4893.aspx">初中 18 酬乐天扬州初逢席上见赠 刘禹锡</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_af218ed70405.aspx">初中 20 钱塘湖春行 白居易</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_a60e7fd3031b.aspx">初中 21 雁门太守行 李贺</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_3fb397218a1e.aspx">初中 22 赤壁 杜牧</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_8e8011f614fb.aspx">初中 23 泊秦淮 杜牧</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_e46c43d13b97.aspx">初中 24 夜雨寄北 李商隐</a> <br>
         </th> <!古诗歌>
         <th></th> <!助记视频、图片>
         <th></th> <!会背了?>
