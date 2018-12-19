@@ -73,7 +73,7 @@
     <tr>
         <th>晋朝</th> <!朝代>
         <th></th> <!书籍>
-        <th> <a href = "https://so.gushiwen.org/shiwenv_5b90a9bb5230.aspx">饮酒(其五) 陶渊明</a> <br>
+        <th> <a href = "https://so.gushiwen.org/shiwenv_5b90a9bb5230.aspx">初中 5 饮酒(其五) 陶渊明</a> <br>
         </th> <!古诗歌>
         <th></th> <!助记视频、图片>
         <th></th> <!会背了?>
@@ -82,7 +82,8 @@
     <tr>
         <th>南北朝</th> <!朝代>
         <th></th> <!书籍>
-        <th></th> <!古诗歌>
+        <th> <a href = "https://so.gushiwen.org/shiwenv_2d6b0c83a500.aspx">初中 6 木兰诗 《北朝民歌》</a> <br>
+        </th> <!古诗歌>
         <th></th> <!助记视频、图片>
         <th></th> <!会背了?>
         <th></th>  <!能默写了?>            
