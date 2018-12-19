@@ -8,9 +8,17 @@
         <th>商</th> 
         <th>西周</th>
         <th>东周(春秋+战国)</th>
-        <th>生态</th>
-        <th>市占率</th>
-        <th>能力级别</th>
+        <th>西汉</th>
+        <th>东汉</th>
+        <th>三国（吴蜀吴）</th>
+        <th>晋朝</th>
+        <th>南北朝</th>
+        <th>唐朝</th>
+        <th>北宋</th>
+        <th>南宋</th>
+        <th>元朝</th>
+        <th>明朝</th>
+        <th>清朝</th>
     </tr>
     <tr>
         <th><a href = "https://baike.baidu.com/item/%E5%B0%8F%E7%88%B1%E5%90%8C%E5%AD%A6/22047751?fr=aladdin">小爱同学</a> </th>
