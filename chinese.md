@@ -111,9 +111,14 @@
     </tr>   
     <tr>
         <th>唐朝</th> <!朝代>
-        <th></th> <!书籍>
+        <th>
+            《唐诗》<br>
+        </th> <!书籍>
         <th>
             <a href = "https://so.gushiwen.org/shiwenv_5775c79bcd34.aspx">初中 7 送杜少府之任蜀州 王勃</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_4083a01ac833.aspx">初中 8 登幽州台歌 陈子昂</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_720b46d38537.aspx">初中 9 次北固山下 王湾</a> <br>
+            <a href = "https://so.gushiwen.org/shiwenv_eae647c5c110.aspx">初中 10 使至塞上 王维</a> <br>
         </th> <!古诗歌>
         <th></th> <!助记视频、图片>
         <th></th> <!会背了?>
