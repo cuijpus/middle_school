@@ -1,4 +1,35 @@
 
+
+
+# 同步练习
+<table>
+  <tr>
+    <th>单元</th>
+    <th>pad视频</th>
+    <th>时长</th>
+    <th>在线检测</th>
+    <th>课本阅读</th>
+    <th>作业</th>
+    <th>总复习</th>
+    <th>空白填空(复印)</th>
+    <th>检测题</th>
+  </tr>
+  <tr>
+    <th>8上5单元</th>
+    <th>预习中国石拱桥</th>
+    <th></th>
+    <th></th>
+    <th>做笔记，打卡</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>    
+</table>
+
+# 整体复习安排
+
+
 # 初中61首古诗
 
 <table>
