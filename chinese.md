@@ -349,4 +349,6 @@
 [初中生必背古诗文61首:分册版本](http://www.360doc.com/content/18/0520/14/46601607_755447473.shtml)<br>
 
 ## <a id="tag-专题2：字音、字形" href="#tag-专题2：字音、字形">专题2：字音、字形</a>
+先默写，再测试<br>
 [独家整理！部编版初中语文1-6册生字词大汇总，预习/复习都有用！ ](https://www.sohu.com/a/165025748_583571)<br>
+[新部编版初中阶段字音字形课本部分](https://wenku.baidu.com/view/f31ec195fbb069dc5022aaea998fcc22bcd1438e.html)<br>
