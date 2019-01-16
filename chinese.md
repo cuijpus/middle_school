@@ -7,6 +7,7 @@
 # 部编版语文1~6册目录
 [部编版初中语文1-6册目录,初一初二初三必背古诗及情景默写题汇总,可打印](http://www.sohu.com/a/190933433_497733)<br>
 [部编版初中语文1-6册目录](https://wenku.baidu.com/view/71408e688f9951e79b89680203d8ce2f00666500.html)<br>
+[2016-2018年部编版初中语文课文全目录](https://wenku.baidu.com/view/9937e90ddc36a32d7375a417866fb84ae45cc3e5.html)<br>
 
 # 同步练习
 <table>
