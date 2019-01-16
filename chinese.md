@@ -350,5 +350,31 @@
 
 ## <a id="tag-专题2：字音、字形" href="#tag-专题2：字音、字形">专题2：字音、字形</a>
 先默写，再测试<br>
+
+<table>
+  <tr>
+    <th>第几册</th>
+    <th>字音填空</th>
+    <th>练习几遍</th>
+    <th>掌握了吗?</th>
+    <th>字形填空</th>
+    <th>练习几遍</th>
+    <th>掌握了吗</th>
+  </tr>
+  <tr>
+    <th></th> <!第几册>
+    <th></th> <!字音填空>
+    <th></th> <!练习几遍>
+    <th></th> <!掌握了吗?>
+    <th></th> <!字形填空>
+    <th></th> <!练习几遍>
+    <th></th> <!掌握了吗>
+  </tr>
+</table>
+
+https://wenku.baidu.com/view/f31ec195fbb069dc5022aaea998fcc22bcd1438e.html
+
 [独家整理！部编版初中语文1-6册生字词大汇总，预习/复习都有用！ ](https://www.sohu.com/a/165025748_583571)<br>
 [新部编版初中阶段字音字形课本部分](https://wenku.baidu.com/view/f31ec195fbb069dc5022aaea998fcc22bcd1438e.html)<br>
+
+
