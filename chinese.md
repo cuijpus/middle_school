@@ -9,6 +9,7 @@
 [部编版初中语文1-6册目录](https://wenku.baidu.com/view/71408e688f9951e79b89680203d8ce2f00666500.html)<br>
 [2016-2018年部编版初中语文课文全目录](https://wenku.baidu.com/view/9937e90ddc36a32d7375a417866fb84ae45cc3e5.html)<br>
 [2016部编版初中语文教材目录(七至九年级)](https://wenku.baidu.com/view/adfb62bbf424ccbff121dd36a32d7375a517c650.html?sxts=1547603628213)<br>
+[2018部编人教版初中语文教材课文目录](https://wenku.baidu.com/view/e65e138c48649b6648d7c1c708a1284ac9500566.html?sxts=1547604037720)<br>
 
 # 名著导读
 [2017部编教材初中语文七至九年级必读名著最全书目](https://wenku.baidu.com/view/c38eea77a66e58fafab069dc5022aaea998f418e.html?rec_flag=default)<br>
