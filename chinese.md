@@ -372,9 +372,8 @@
   </tr>
 </table>
 
-https://wenku.baidu.com/view/f31ec195fbb069dc5022aaea998fcc22bcd1438e.html
-
 [独家整理！部编版初中语文1-6册生字词大汇总，预习/复习都有用！ ](https://www.sohu.com/a/165025748_583571)<br>
 [新部编版初中阶段字音字形课本部分](https://wenku.baidu.com/view/f31ec195fbb069dc5022aaea998fcc22bcd1438e.html)<br>
-
+[(部编版)八上语文生字词归纳总复习](https://wenku.baidu.com/view/f31ec195fbb069dc5022aaea998fcc22bcd1438e.html)<br>
+[2017新部编本八上初二语文读读写写生字词练习拼音练习习题试题](https://wenku.baidu.com/view/c9925f8477eeaeaad1f34693daef5ef7ba0d1297.html?rec_flag=default&sxts=1547638616070)<br>
 
