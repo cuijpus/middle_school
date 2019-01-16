@@ -10,6 +10,9 @@
 [2016-2018年部编版初中语文课文全目录](https://wenku.baidu.com/view/9937e90ddc36a32d7375a417866fb84ae45cc3e5.html)<br>
 [2016部编版初中语文教材目录(七至九年级)](https://wenku.baidu.com/view/adfb62bbf424ccbff121dd36a32d7375a517c650.html?sxts=1547603628213)<br>
 
+# 名著导读
+[2017部编教材初中语文七至九年级必读名著最全书目](https://wenku.baidu.com/view/c38eea77a66e58fafab069dc5022aaea998f418e.html?rec_flag=default)<br>
+
 # 同步练习
 <table>
   <tr>
