@@ -36,9 +36,11 @@
 <table>
   <tr>
     <th>专题</th>
-    <th></th>
-    <th></th>
-    <th></th>
+    <th>整体资料</th>
+    <th>默写资料</th>
+    <th>分册资料</th>
+    <th>默写资料</th>
+    <th>以周为单位，7天反复</th>
   </tr>
 </table>
 
