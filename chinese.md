@@ -335,4 +335,5 @@
 
 [初中生必背古诗文61首](https://wenku.baidu.com/view/f6bf1862af1ffc4ffe47ac95.html?sxts=1545202408201)<br>
 [初中生必背古诗文61首默写](https://wenku.baidu.com/view/eb078da3d0f34693daef5ef7ba0d4a7302766ca3.html?rec_flag=default&sxts=1545202447020)<br>
+[初中生必背古诗文61首:分册版本](http://www.360doc.com/content/18/0520/14/46601607_755447473.shtml)<br>
 
