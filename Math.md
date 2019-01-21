@@ -16,7 +16,7 @@
 
 # 整体复习安排
 
-<table>
+<table align="left">
   <tr>
     <th>ID</th>
     <th>专题</th>
