@@ -46,13 +46,7 @@
 
 <table>
   <tr>
-    <td>ID</td> <td>专题</td>
-    <th>考点名称</th>
-    <th>整体资料</th>
-    <th>默写资料</th>
-    <th>分册资料</th>
-    <th>默写资料</th>
-    <th>7天反复</th>
+    <td>ID</td> <td>专题</td> <td>考点名称</td> <td>整体资料</td> <td>默写资料</td> <td>分册资料</td> <td>默写资料</td> <td>7天反复</td>
   </tr>
   <tr>
     <th>1</th> <!ID>
