@@ -46,8 +46,7 @@
 
 <table>
   <tr>
-    <th>ID</th>
-    <th>专题</th>
+    <td>ID</td> <td>专题</td>
     <th>考点名称</th>
     <th>整体资料</th>
     <th>默写资料</th>
