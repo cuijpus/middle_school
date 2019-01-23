@@ -437,6 +437,13 @@
 [初中生必背古诗文61首默写](https://wenku.baidu.com/view/eb078da3d0f34693daef5ef7ba0d4a7302766ca3.html?rec_flag=default&sxts=1545202447020)<br>
 [初中生必背古诗文61首:分册版本](http://www.360doc.com/content/18/0520/14/46601607_755447473.shtml)<br>
 
+适合朗读:<br>
+[初中生必背古诗文61首-带拼音带分隔符.](https://wenku.baidu.com/view/807caa38a55177232f60ddccda38376baf1fe0f8.html?from=search)<br>
+
+[人教版部编七年级上册语文必背古诗文](https://wenku.baidu.com/view/51fb6138f342336c1eb91a37f111f18582d00c4f.html?from=search)<br>
+[七年级下册语文必背古诗文](https://wenku.baidu.com/view/d9df2f2f763231126edb113d.html?from=search)<br>
+[八年级上册必背古诗文](https://wenku.baidu.com/view/a71b94e8185f312b3169a45177232f60ddcce717.html?from=search)<br>
+
 ## <a id="tag-专题2：字音、字形" href="#tag-专题2：字音、字形">专题2：字音、字形</a>
 先默写，再测试<br>
 
