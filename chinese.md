@@ -446,6 +446,9 @@
 [八年级上册必背古诗文](https://wenku.baidu.com/view/a71b94e8185f312b3169a45177232f60ddcce717.html?from=search)<br>
 [部编七八年级必背古诗词](https://wenku.baidu.com/view/ea644020b42acfc789eb172ded630b1c59ee9b95.html?sxts=1548235680549)<br>
 
+[新部编版1-9年级语文必背古诗文135篇](https://wenku.baidu.com/view/4fb2a7b4534de518964bcf84b9d528ea81c72fee.html)<BR>
+
+[部编版1——9年级必背古诗词](https://wenku.baidu.com/view/53a5ee7de97101f69e3143323968011ca200f70a.html?rec_flag=default)<br>
 
 ## <a id="tag-专题2：字音、字形" href="#tag-专题2：字音、字形">专题2：字音、字形</a>
 先默写，再测试<br>
