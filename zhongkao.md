@@ -1,4 +1,10 @@
 
+
+# 中考时间
+http://www.jzb.com/bbs/thread-7075956-1-1.html
+![2019 zhongkao](http://files.eduuu.com/img/2019/02/18/162523_5c6a6bf35c486.png)<br>
+
+
 # 分数
 
 2018南京中考总分满分、各科目分值设置如下：
