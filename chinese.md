@@ -549,3 +549,7 @@
 [(部编版)八上语文生字词归纳总复习](https://wenku.baidu.com/view/f31ec195fbb069dc5022aaea998fcc22bcd1438e.html)<br>
 [2017新部编本八上初二语文读读写写生字词练习拼音练习习题试题](https://wenku.baidu.com/view/c9925f8477eeaeaad1f34693daef5ef7ba0d1297.html?rec_flag=default&sxts=1547638616070)<br>
 
+
+# 中考题目准备
+[2019年中考语文常考点整理](https://wenku.baidu.com/view/8152c018ae1ffc4ffe4733687e21af45b307fe8f.html)<br>
+
