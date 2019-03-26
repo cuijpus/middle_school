@@ -11,6 +11,7 @@
 [2016-2018年部编版初中语文课文全目录](https://wenku.baidu.com/view/9937e90ddc36a32d7375a417866fb84ae45cc3e5.html)<br>
 [2016部编版初中语文教材目录(七至九年级)](https://wenku.baidu.com/view/adfb62bbf424ccbff121dd36a32d7375a517c650.html?sxts=1547603628213)<br>
 [2018部编人教版初中语文教材课文目录](https://wenku.baidu.com/view/e65e138c48649b6648d7c1c708a1284ac9500566.html?sxts=1547604037720)<br>
+[2016部编版初中语文教材目录及知识体系(七至九年级):准确的](https://wenku.baidu.com/view/c490870549d7c1c708a1284ac850ad02df800706.html?from=search)<br>
 2019.1.22读了7上，下，8上大纲目录<br>
 
 # 名著导读
